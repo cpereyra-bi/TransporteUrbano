@@ -12,7 +12,7 @@ Este proyecto fue desarrollado en el marco de una clase práctica del curso de a
 
 ---
 
-## 🕵️ Tareas Realizadas
+## Tareas Realizadas
 
 -  Generación de la tabla de hechos `[Viajes]` a partir del archivo de datos.  
 -  Creación de tabla de dimensiones `[Horas]` mediante DAX/Power Query.  
@@ -20,7 +20,7 @@ Este proyecto fue desarrollado en el marco de una clase práctica del curso de a
 -  Modelado relacional en esquema estrella conectando `[Viajes]`, `[Fechas]` y `[Horas]`.  
 -  Diseño de visualizaciones con segmentadores, matrices y tarjetas para analizar patrones temporales.
 
-## 📈 Visualizaciones Principales
+## Visualizaciones Principales
 
 - **Segmentadores dinámicos**: mes, tipo de día, franja horaria.
 - **Matriz de viajes por día y hora**: para identificar picos de demanda.
